@@ -1,0 +1,4 @@
+scoreboard players add nautmath_sqrt_test nautmath_var 1
+scoreboard players operation nautmath_sqrt_testsquare nautmath_var = nautmath_sqrt_test nautmath_var
+scoreboard players operation nautmath_sqrt_testsquare nautmath_var *= nautmath_sqrt_test nautmath_var
+execute if score nautmath_sqrt_testsquare nautmath_var < nautmath_sqrt_base nautmath_var run function nauthack:nautmath/sqrt_recursive

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "nauthack:nautcore/load",
+        "nauthack:nautstats/load",
+        "nauthack:nautremote/load"
+    ]
+}

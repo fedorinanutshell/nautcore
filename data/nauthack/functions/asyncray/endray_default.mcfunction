@@ -1,0 +1,1 @@
+execute if data storage nauthack:nauthack asyncray.databuffer.asyncray.args.default run summon minecraft:creeper ~ ~ ~ {ExplosionRadius: 3, Fuse: 0}

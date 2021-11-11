@@ -1,0 +1,1 @@
+scoreboard players set rmbcheck_active nautmath_var 0

@@ -1,0 +1,2 @@
+scoreboard players set nautmath_randomoctaves_result nautmath_var 0
+execute unless score nautmath_randomoctaves_octaves nautmath_var matches 0 run function nauthack:nautmath/randomoctaves_recursive

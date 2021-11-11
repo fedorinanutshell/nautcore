@@ -1,0 +1,1 @@
+data modify storage nauthack:nauthack bundle.copy set from entity @s Inventory

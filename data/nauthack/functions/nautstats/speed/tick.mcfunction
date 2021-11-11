@@ -1,0 +1,1 @@
+execute as @a run function nauthack:nautstats/speed/tick_relative

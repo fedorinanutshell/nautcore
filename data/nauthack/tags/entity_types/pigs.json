@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:pig",
+		"minecraft:piglin",
+		"minecraft:piglin_brute",
+		"minecraft:zombified_piglin",
+		"minecraft:hoglin",
+		"minecraft:zoglin"
+	]
+}

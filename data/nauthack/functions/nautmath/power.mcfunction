@@ -1,0 +1,3 @@
+scoreboard players set nautmath_power_buffer nautmath_var 1
+execute unless score nautmath_power_power nautmath_var matches 0 run function nauthack:nautmath/power_recursive
+scoreboard players operation nautmath_power_result nautmath_var = nautmath_power_buffer nautmath_var

@@ -1,0 +1,19 @@
+{
+	"function": "minecraft:copy_nbt",
+	"source": {
+		"type": "minecraft:storage",
+		"source": "nauthack:nauthack"
+	},
+	"ops": [
+		{
+			"source": "nauttrack.coords",
+			"target": "LodestonePos",
+			"op": "merge"
+		},
+		{
+			"source": "nauttrack.dimension",
+			"target": "LodestoneDimension",
+			"op": "replace"
+		}
+	]
+}

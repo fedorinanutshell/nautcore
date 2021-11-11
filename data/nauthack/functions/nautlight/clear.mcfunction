@@ -1,0 +1,1 @@
+execute as @e[tag=nautlight] at @s run function nauthack:nautlight/remove

@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:experience_orb",
+		"minecraft:item",
+		"minecraft:area_effect_cloud",
+		"minecraft:armor_stand",
+		"minecraft:eye_of_ender",
+		"minecraft:fishing_bobber",
+		"minecraft:marker"
+	]
+}

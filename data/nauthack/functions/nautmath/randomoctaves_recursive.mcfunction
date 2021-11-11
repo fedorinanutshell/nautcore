@@ -1,0 +1,8 @@
+function nauthack:nautmath/randombinary
+scoreboard players operation nautmath_power_base nautmath_var = 2 nautmath_var
+scoreboard players operation nautmath_power_power nautmath_var = nautmath_randomoctaves_octaves nautmath_var
+function nauthack:nautmath/power
+scoreboard players operation nautmath_power_result nautmath_var *= nautmath_randombinary nautmath_var
+scoreboard players operation nautmath_randomoctaves_result nautmath_var += nautmath_power_result nautmath_var
+scoreboard players operation nautmath_randomoctaves_octaves nautmath_var -= 1 nautmath_var
+execute unless score nautmath_randomoctaves_octaves nautmath_var matches 0 run function nauthack:nautmath/randomoctaves_recursive

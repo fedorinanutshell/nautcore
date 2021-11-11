@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:rmbcheck/condition/condition",
+		"nauthack:rmbcheck/condition/default"
+	]
+}

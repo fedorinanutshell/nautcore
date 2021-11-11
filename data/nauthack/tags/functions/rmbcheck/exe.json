@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:rmbcheck/exe/exe",
+		"nauthack:rmbcheck/exe/default"
+	]
+}

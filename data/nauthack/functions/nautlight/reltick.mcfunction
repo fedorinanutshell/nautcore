@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ minecraft:light run kill @s

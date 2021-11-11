@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:enderman",
+		"minecraft:zombified_piglin",
+		"minecraft:wolf",
+		"minecraft:polar_bear",
+		"minecraft:iron_golem"
+	]
+}
