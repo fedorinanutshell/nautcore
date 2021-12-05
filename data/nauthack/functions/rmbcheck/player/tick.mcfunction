@@ -1,6 +1,6 @@
-execute if entity @s[tag=rmbcheck] run function nauthack:rmbcheck/check/tick
-
 function #nauthack:rmbcheck/condition
+
+execute if entity @s[tag=rmbcheck] run function nauthack:rmbcheck/check/tick
 
 execute if score rmbcheck_active nautmath_var matches 0 if entity @s[tag=rmbcheck] run function nauthack:rmbcheck/check/remove
 
