@@ -1,0 +1,14 @@
+[
+	{
+		"function": "minecraft:set_damage",
+		"damage": {
+			"type": "minecraft:score",
+			"target": {
+				"type": "minecraft:fixed",
+				"name": "item_damage"
+			},
+			"score": "nautmath_var"
+		},
+		"add": true
+	}
+]

@@ -1,0 +1,2 @@
+scoreboard objectives add asyncray_owner dummy {"text": "Owner of asyncray's process", "color": "red", "bold": true}
+scoreboard objectives add asyncray_id dummy {"text": "Asyncray ID of asyncray's process", "color": "white", "bold": true}

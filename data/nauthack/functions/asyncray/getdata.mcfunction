@@ -1,4 +1,5 @@
-scoreboard players operation nautid_upload nautmath_var = @s nautid_id
-function nauthack:nautid/upload
+scoreboard players operation nautdata_upload nautmath_var = @s asyncray_id
+data modify storage nauthack:nauthack nautdata.buffer set from storage nauthack:nauthack asyncray.data
+function nauthack:nautdata/upload
 
-data modify storage nauthack:nauthack asyncray.databuffer set from storage nauthack:nauthack nautid.load[0]
+data modify storage nauthack:nauthack asyncray.databuffer set from storage nauthack:nauthack nautdata.load[0]

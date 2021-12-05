@@ -1,0 +1,20 @@
+{
+	"type": "nauthack:whiteworld",
+	"generator": {
+		"type": "minecraft:flat",
+		"settings": {
+			"biome": "nauthack:whiteworld",
+			"lakes": false,
+			"features": false,
+			"layers": [
+				{
+					"block": "minecraft:white_concrete",
+					"height": 16
+				}
+			],
+			"structures": {
+				"structures": {}
+			}
+		}
+	}
+}
