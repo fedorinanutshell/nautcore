@@ -1,13 +1,9 @@
 {
-	"surface_builder": "minecraft:nope",
-	"depth": 0,
-	"scale": 0,
-	"temperature": 1.0,
+	"temperature": 1,
 	"downfall": 0,
 	"precipitation": "none",
 	"temperature_modifier": "none",
 	"category": "none",
-	"player_spawn_friendly": true,
 	"creature_spawn_probability": 0,
 	"effects": {
 		"sky_color": 16777215,
@@ -16,7 +12,6 @@
 		"water_fog_color": 127,
 		"grass_color_modifier": "none"
 	},
-	"starts": [],
 	"spawners": {},
 	"spawn_costs": {},
 	"carvers": {},
