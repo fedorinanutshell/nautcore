@@ -1,0 +1,1 @@
+title @p actionbar {"text": "Tracking: ", "color": "light_purple", "bold": true, "extra": [{"selector": "@s"}, {"text": " | Distance: "}, {"storage": "nauthack:nauthack", "nbt": "nauttrack.distance", "color": "white", "interpret": false}]}

@@ -1,0 +1,1 @@
+give @s minecraft:compass{Tags: ["nauttrack_compass"], LodestoneTracked: 0b, display: {Name: '{"text": "Compass Tracker", "color": "dark_red", "bold": true, "italic": false}'}}
