@@ -7,7 +7,7 @@
         "nauthack:nautstats/tick",
         "nauthack:nautstats/speed/tick",
         "nauthack:nauttime/tick",
-        "nauthack:nautremote/tick",
-        "nauthack:actualtime/tick"
+        "nauthack:nauttimer/tick",
+        "nauthack:nautremote/tick"
     ]
 }
