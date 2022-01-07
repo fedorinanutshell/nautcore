@@ -1,3 +1,5 @@
+#I love math...
+
 scoreboard players operation nautstats_xbuffer nautmath_var = @s nautstats_dx
 scoreboard players operation nautstats_ybuffer nautmath_var = @s nautstats_dy
 scoreboard players operation nautstats_zbuffer nautmath_var = @s nautstats_dz

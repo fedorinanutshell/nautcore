@@ -1,3 +1,5 @@
+#new element in data array for a new ray
+
 scoreboard players add asyncray_maxid nautmath_var 1
 scoreboard players operation @s asyncray_id = asyncray_maxid nautmath_var
 

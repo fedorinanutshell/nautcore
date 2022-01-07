@@ -1,0 +1,5 @@
+gamerule doMobSpawning false
+gamerule doInsomnia false
+gamerule doPatrolSpawning false
+gamerule doTraderSpawning false
+gamerule disableRaids true

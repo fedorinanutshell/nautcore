@@ -1,3 +1,5 @@
+#executes every tick relative to every active ray
+
 function nauthack:asyncray/getdata
 
 execute store result score asyncray_power nautmath_var run data get storage nauthack:nauthack asyncray.databuffer.power 100.0

@@ -1,3 +1,5 @@
+#everything related to nauthack:nautdata has its own reset function
+
 scoreboard players reset @e nautid_id
 scoreboard players reset @e nautid_uuid0
 scoreboard players reset @e nautid_uuid1

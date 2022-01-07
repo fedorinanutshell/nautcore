@@ -1,3 +1,5 @@
+#descriptions of scoreboard objectives have enough information
+
 gamerule maxCommandChainLength 2147483647
 
 title @a times 10 20 10

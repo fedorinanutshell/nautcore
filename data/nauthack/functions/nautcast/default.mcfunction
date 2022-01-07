@@ -1,3 +1,5 @@
+#example shooting TNT
+
 scoreboard players set nautcast_mod nautmath_var 20
 function nauthack:nautcast/cast
 

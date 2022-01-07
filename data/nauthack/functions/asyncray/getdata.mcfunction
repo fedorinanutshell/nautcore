@@ -1,3 +1,5 @@
+#loads data of the ray
+
 scoreboard players operation nautdata_upload nautmath_var = @s asyncray_id
 data modify storage nauthack:nauthack nautdata.buffer set from storage nauthack:nauthack asyncray.data
 function nauthack:nautdata/upload

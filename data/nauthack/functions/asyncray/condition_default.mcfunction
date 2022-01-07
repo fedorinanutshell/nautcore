@@ -1,0 +1,1 @@
+#wait, I was too lazy to show you default implementation of conditions?

@@ -1,3 +1,6 @@
+#r/theydidthemath
+
+#all this is needed for scoreboard operations
 scoreboard objectives add nautmath_var dummy {"text": "Variable", "color": "lime", "bold": true}
 scoreboard players set -1 nautmath_var -1
 scoreboard players set 0 nautmath_var 0

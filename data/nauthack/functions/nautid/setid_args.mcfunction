@@ -1,3 +1,5 @@
+#same as nauthack:nautid/setid, but uses arguments from nautid.databuffer
+
 scoreboard players add nautid_maxid nautmath_var 1
 scoreboard players operation @s nautid_id = nautid_maxid nautmath_var
 

@@ -1,3 +1,5 @@
+#nautremote may prevent players from stepping on certain blocks, prevent from escaping map, etc
+
 tag @e remove nautremote_remote
 
 summon minecraft:armor_stand ~ ~ ~ {NoGravity: true, Marker: true, Invisible: true, Invulnerable: true, Tags: ["nautremote_remote"]}

@@ -1,3 +1,5 @@
+#recursive function executing unless nautray_raypow goes under 0
+
 function #nauthack:nautray/effect
 
 execute unless block ~ ~ ~ #nauthack:semi_transparent run scoreboard players set nautray_raypower nautmath_var 0
