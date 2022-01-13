@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#nauthack:semi_solid",
+		"#nauthack:fluid",
+		"#nauthack:gase"
+	]
+}

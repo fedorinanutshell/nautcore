@@ -1,0 +1,2 @@
+execute if data storage nauthack:nauthack nautray.args.nauthack_collision unless block ~ ~ ~ #nauthack:non_solid run scoreboard players set nautray_move nautmath_var 0
+execute if data storage nauthack:nauthack nautray.args.nauthack_collision if entity @e[type = !#nauthack:nocoll, distance = ..1] run scoreboard players set nautray_move nautmath_var 0

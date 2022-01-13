@@ -1,2 +1,2 @@
-execute if data storage nauthack:nauthack asyncray.databuffer.args.nauthack_collision unless block ~ ~ ~ #nauthack:semi_transparent run scoreboard players set asyncray_move nautmath_var 0
+execute if data storage nauthack:nauthack asyncray.databuffer.args.nauthack_collision unless block ~ ~ ~ #nauthack:non_solid run scoreboard players set asyncray_move nautmath_var 0
 execute if data storage nauthack:nauthack asyncray.databuffer.args.nauthack_collision if entity @e[distance = ..1, type = !#nauthack:nocoll] run scoreboard players set asyncray_move nautmath_var 0

@@ -1,9 +1,10 @@
-#recursive function executing unless nautray_raypow goes under 0
+#recursive function executing unless nautray_power goes under 0
 
-function #nauthack:nautray/effect
+function #nauthack:nautray/effects
 
-execute unless block ~ ~ ~ #nauthack:semi_transparent run scoreboard players set nautray_raypower nautmath_var 0
-scoreboard players operation nautray_raypower nautmath_var -= 1 nautmath_var
-execute at @s anchored feet run tp ^ ^ ^1
+function nauthack:nautray/condition
 
-execute if score nautray_raypower nautmath_var > 0 nautmath_var at @s anchored feet run function nauthack:nautray/raycycle
+scoreboard players remove nautray_power nautmath_var 1
+tp ^ ^ ^0.25
+
+execute if score nautray_move nautmath_var matches 1 at @s anchored feet run function nauthack:nautray/raycycle

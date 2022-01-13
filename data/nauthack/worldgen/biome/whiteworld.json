@@ -8,8 +8,10 @@
 	"effects": {
 		"sky_color": 16777215,
 		"fog_color": 16777215,
-		"water_color": 255,
-		"water_fog_color": 127,
+		"water_color": 4161535,
+		"water_fog_color": 16777215,
+		"grass_color": 65280,
+		"foliage_color": 65280,
 		"grass_color_modifier": "none"
 	},
 	"spawners": {},

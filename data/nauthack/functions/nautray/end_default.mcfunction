@@ -1,1 +1,0 @@
-execute if data storage nauthack:nauthack nautray.id.default run summon minecraft:creeper ~ ~ ~ {Fuse: 0, ExplosionRadius: 3}
