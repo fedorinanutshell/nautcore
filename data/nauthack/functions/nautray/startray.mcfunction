@@ -1,5 +1,7 @@
 #instant rays
 
+tag @s add nautray_raycaster
+
 execute positioned ~ ~1.5 ~ run summon minecraft:armor_stand ^ ^ ^2.5 {Tags: ["nautray"], Invisible: true, Invulnerable: true, NoGravity: true}
 execute store result entity @e[tag = nautray, type = minecraft:armor_stand, limit = 1, sort = nearest] Rotation[0] float 1.0 run data get entity @s Rotation[0] 1.0
 execute store result entity @e[tag = nautray, type = minecraft:armor_stand, limit = 1, sort = nearest] Rotation[1] float 1.0 run data get entity @s Rotation[1] 1.0

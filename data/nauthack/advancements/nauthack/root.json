@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:nautilus_shell"
+		},
+		"title": {
+			"text": "NautCore",
+			"color": "aqua",
+			"bold": true
+		},
+		"description": "",
+		"background": "minecraft:textures/block/prismarine_bricks.png",
+		"frame": "goal",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -1,5 +1,7 @@
 #descriptions of scoreboard objectives have enough information
 
+tellraw @a {"text" : "NautCore successfully loaded. Don't forget to do '/function #nauthack:unload' if you want to uninstall this data-pack", "bold": true, "color": "aqua"}
+
 gamerule maxCommandChainLength 2147483647
 
 title @a times 10 20 10

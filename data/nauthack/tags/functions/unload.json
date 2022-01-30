@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:nautlight/clear",
+		"nauthack:unload",
+		"nauthack:asyncray/unload",
+		"nauthack:nautcore/unload",
+		"nauthack:nautremote/unload",
+		"nauthack:nautstats/unload",
+		"nauthack:rmbcheck/unload"
+	]
+}

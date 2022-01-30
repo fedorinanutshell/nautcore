@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:asyncray/reset",
+		"nauthack:rmbcheck/reset"
+	]
+}
