@@ -1,6 +1,6 @@
 #example shooting TNT
 
-scoreboard players set nautcast_mod nautmath_var 20
+scoreboard players set nautcast_mod nautmath_var 50
 function nauthack:nautcast/cast
 
 execute at @s anchored eyes run summon minecraft:tnt ^ ^ ^1 {Tags: ["nautcast_default"], Motion: [0.0d, 0.0d, 0.0d], Fuse: 40s}

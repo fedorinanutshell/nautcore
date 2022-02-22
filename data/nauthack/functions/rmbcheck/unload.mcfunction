@@ -1,4 +1,4 @@
-scoreboard objectives remove rmbcheck_active
+scoreboard objectives remove rmbcheck_check
 scoreboard objectives remove rmbcheck_add
 scoreboard objectives remove rmbcheck_clicks
 scoreboard objectives remove rmbcheck_id

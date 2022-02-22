@@ -1,0 +1,1 @@
+execute if data storage nauthack:nauthack freeray.databuffer.args.nauthack_default run function nauthack:naututils/explode_1

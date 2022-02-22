@@ -1,12 +1,14 @@
 {
     "replace": false,
     "values": [
+        "#nauthack:unload",
         "nauthack:nautcore/load",
         "nauthack:nautstats/load",
         "nauthack:nautremote/load",
         "nauthack:nautmath/load",
         "nauthack:nautid/load",
         "nauthack:rmbcheck/load",
-        "nauthack:asyncray/load"
+        "nauthack:asyncray/load",
+        "nauthack:freeray/load"
     ]
 }

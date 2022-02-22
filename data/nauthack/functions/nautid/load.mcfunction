@@ -5,4 +5,4 @@ scoreboard objectives add nautid_uuid2 dummy {"text": "UUID[2]", "color": "dark_
 scoreboard objectives add nautid_uuid3 dummy {"text": "UUID[3]", "color": "dark_blue", "bold": true}
 
 scoreboard players set nautid_active nautmath_var 1
-scoreboard players set nautid_store nautmath_var 1
+scoreboard players set nautid_store nautmath_var 0
