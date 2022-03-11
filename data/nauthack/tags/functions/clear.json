@@ -2,6 +2,8 @@
 	"replace": false,
 	"values": [
 		"nauthack:asyncray/reset",
-		"nauthack:rmbcheck/reset"
+		"nauthack:rmbcheck/reset",
+		"nauthack:freeray/reset",
+		"nauthack:nauttimer/reset"
 	]
 }
