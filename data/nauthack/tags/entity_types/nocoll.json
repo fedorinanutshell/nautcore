@@ -7,7 +7,6 @@
 		"minecraft:armor_stand",
 		"minecraft:eye_of_ender",
 		"minecraft:fishing_bobber",
-		"minecraft:marker",
-		"minecraft:player"
+		"minecraft:marker"
 	]
 }

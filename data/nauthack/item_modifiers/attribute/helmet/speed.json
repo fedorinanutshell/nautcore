@@ -12,7 +12,7 @@
 						"name": "item_attribute_speed"
 					},
 					"score": "nautmath_var",
-					"scale": 0.1
+					"scale": 0.01
 				},
 				"operation": "addition",
 				"slot": "head"

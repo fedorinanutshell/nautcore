@@ -7,7 +7,8 @@
 				"type": "minecraft:fixed",
 				"name": "item_damage"
 			},
-			"score": "nautmath_var"
+			"score": "nautmath_var",
+			"scale": 0.001
 		},
 		"add": true
 	}
