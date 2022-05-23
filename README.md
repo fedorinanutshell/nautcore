@@ -1,3 +1,2 @@
-NautCore is a data-pack providing you a lot of various functions commonly used, ID system, data storage system... It's basically a library for Minecraft data-packs. Also, I'm not a native english speaker, so feel free to help me with code comments and descriptions of features, because some of them... may have unintended and stupid mistakes.
-
-NautCore - дата-пак, являющийся библиотекой для других дата-паков в майнкрафте. Он содержит много всего, начиная от предикатов с тегами мобов, помогающими вам их сортировать по категориям, заканчивая многочисленными кастомизируемыми функциями: ID систему, хранилище данных, рейкастинг, отслеживание мобов и координат компасом, откаты, математика, отслеживание нажатий правой кнопки мыши... Не буду тут всё перечислять, лучше рекомендую вам ознакомиться с плейлистом на моём YouTube-канале - https://youtube.com/playlist?list=PLd1Dqhw2ErTdM04MsC-jQqjHJiAKrYOFx . Сразу дисклеймер для людей, которые заметят это скорее всего сразу: весь дата-пак на английском. В ближайшее время собираюсь разобраться с созданием ресурс-паков с его переводом, что будут обновляться в каждом релизе.
+Version: 1.18.1
+For more details check the main branch
