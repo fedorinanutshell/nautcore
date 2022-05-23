@@ -1,3 +1,4 @@
+function nauthack:rmbcheck/condition/condition
 function #nauthack:rmbcheck/condition
 
 execute if score rmbcheck_check nautmath_var matches 0 run scoreboard players set @s rmbcheck_clicks 0
