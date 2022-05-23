@@ -1,8 +1,8 @@
 {
 	"pack": {
-		"pack_format": 8,
+		"pack_format": 9,
 		"description": {
-			"text": "Basically a source of functions&other things\nData-Pack Library developed by naut_illus",
+			"text": "Basically a source of functions&other things\nData-Pack Library developed by naut_illus\nVersion: 1.18.2",
 			"color": "gold",
 			"bold": true
 		}
