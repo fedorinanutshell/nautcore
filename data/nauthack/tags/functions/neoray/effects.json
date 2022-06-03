@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neoray/effects/neoray_default",
+		"nauthack:neoray/effects/neoray_step",
+		"nauthack:neoray/effects/neoray_target"
+	]
+}

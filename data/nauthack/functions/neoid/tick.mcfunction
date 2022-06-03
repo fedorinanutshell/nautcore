@@ -1,0 +1,1 @@
+execute as @e[tag = !neoid] if entity @s[tag = !neoid_bound] run function nauthack:neoid/setid

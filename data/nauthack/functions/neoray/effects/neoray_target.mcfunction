@@ -1,0 +1,1 @@
+execute if data entity @s data.neoray.args.neoray_target if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 at @s facing entity @e[type = !#nauthack:types/notmobs, tag = !neoray_owner, team = !nautcore_nocoll, sort = nearest, limit = 1] feet run tp @s ~ ~ ~ ~ ~

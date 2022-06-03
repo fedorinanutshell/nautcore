@@ -1,1 +1,1 @@
-execute if score nautid_active nautmath_var matches 1 as @e unless score @s nautid_id matches 0.. run function nauthack:nautid/setid
+#execute if score nautid_active nautmath_var matches 1 as @e unless score @s nautid_id matches 0.. run function nauthack:nautid/setid

@@ -1,0 +1,1 @@
+execute if data entity @s data.neoray.args.neoray_default run function nauthack:naututils/explode_7

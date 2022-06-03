@@ -14,3 +14,5 @@ scoreboard objectives add nautstats_air air {"text": "Air", "color": "light_blue
 scoreboard objectives add nautstats_armor armor {"text": "Armor", "color": "light_gray", "bold": true}
 scoreboard objectives add nautstats_food food {"text": "Food", "color": "brown", "bold": true}
 scoreboard objectives add nautstats_health health {"text": "Health", "color": "light_blue", "bold": true}
+
+scoreboard objectives setdisplay belowName nautstats_health

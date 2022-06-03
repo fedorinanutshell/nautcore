@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#nauthack:types/other",
+		"#nauthack:types/projectiles",
+		"#nauthack:types/vehicles"
+	]
+}

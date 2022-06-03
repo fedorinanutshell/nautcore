@@ -1,0 +1,5 @@
+execute if data entity @s data.neoray.args.neoray_step_sixteenth if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 run tp @s ^ ^ ^0.0625
+execute if data entity @s data.neoray.args.neoray_step_eightth if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 run tp @s ^ ^ ^0.125
+execute if data entity @s data.neoray.args.neoray_step_quarter if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 run tp @s ^ ^ ^0.25
+execute if data entity @s data.neoray.args.neoray_step_half if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 run tp @s ^ ^ ^0.5
+execute if data entity @s data.neoray.args.neoray_step_one if score neoray_move nautmath_var matches 1 unless score neoray_speed nautmath_var matches ..0 run tp @s ^ ^ ^1.0

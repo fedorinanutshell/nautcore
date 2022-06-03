@@ -10,6 +10,7 @@
 		"nauthack:nautstats/unload",
 		"nauthack:nautid/unload",
 		"nauthack:rmbcheck/unload",
-		"nauthack:freeray/unload"
+		"nauthack:freeray/unload",
+		"nauthack:neoid/unload"
 	]
 }

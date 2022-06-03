@@ -1,0 +1,1 @@
+execute as @e[tag = neoray] at @s run function nauthack:neoray/raytick

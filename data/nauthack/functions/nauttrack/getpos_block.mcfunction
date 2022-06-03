@@ -1,5 +1,5 @@
 kill @e[tag = nauttrack_pos]
-summon minecraft:marker ~ ~ ~ {Tags: ["nautrack_pos"]}
+summon minecraft:marker ~ ~ ~ {Tags: ["nauttrack_pos"]}
 
 execute store result storage nauthack:nauthack nauttrack.coords.X double 1.0 run data get entity @e[tag = nauttrack_pos, limit = 1] Pos[0] 1.0
 execute store result storage nauthack:nauthack nauttrack.coords.Y double 1.0 run data get entity @e[tag = nauttrack_pos, limit = 1] Pos[1] 1.0

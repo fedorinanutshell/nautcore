@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nauthack:neoray/conditions/neoray_block_collision",
+		"nauthack:neoray/conditions/neoray_entity_collision"
+	]
+}

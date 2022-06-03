@@ -1,0 +1,2 @@
+execute if data entity @s data.neoray.args.neoray_default run particle minecraft:wax_on ~ ~ ~ 0.25 0.25 0.25 1 10 force @a
+execute if data entity @s data.neoray.args.neoray_default run particle minecraft:wax_off ~ ~ ~ 0.25 0.25 0.25 1 10 force @a

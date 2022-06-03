@@ -1,0 +1,1 @@
+execute if data entity @s data.neoray.args.neoray_entity_collision if entity @e[distance = ..1, type = !#nauthack:nocoll, tag = !neoray_owner, team = !nautcore_nocoll] run scoreboard players set neoray_move nautmath_var 0
