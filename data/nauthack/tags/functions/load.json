@@ -10,6 +10,9 @@
         "nauthack:rmbcheck/load",
         "nauthack:asyncray/load",
         "nauthack:freeray/load",
-        "nauthack:neoid/load"
+        "nauthack:neoid/load",
+        "nauthack:neoclock/load",
+        "nauthack:neotimer/load",
+        "nauthack:neomouse/load"
     ]
 }

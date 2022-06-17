@@ -1,0 +1,1 @@
+scoreboard players set neoclock_tick nautmath_var 0

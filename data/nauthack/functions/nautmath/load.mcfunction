@@ -18,8 +18,11 @@ scoreboard players set 12 nautmath_var 12
 scoreboard players set 15 nautmath_var 15
 scoreboard players set 16 nautmath_var 16
 scoreboard players set 20 nautmath_var 20
+scoreboard players set 24 nautmath_var 24
 scoreboard players set 25 nautmath_var 25
 scoreboard players set 50 nautmath_var 50
+scoreboard players set 60 nautmath_var 60
 scoreboard players set 64 nautmath_var 64
 scoreboard players set 100 nautmath_var 100
 scoreboard players set 1000 nautmath_var 1000
+scoreboard players set 3600 nautmath_var 3600

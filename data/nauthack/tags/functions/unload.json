@@ -11,6 +11,8 @@
 		"nauthack:nautid/unload",
 		"nauthack:rmbcheck/unload",
 		"nauthack:freeray/unload",
-		"nauthack:neoid/unload"
+		"nauthack:neoid/unload",
+		"nauthack:neotimer/unload",
+		"nauthack:neomouse/unload"
 	]
 }

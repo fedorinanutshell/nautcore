@@ -10,6 +10,9 @@
         "nauthack:nauttimer/tick",
         "nauthack:nautremote/tick",
         "nauthack:neoid/tick",
-        "nauthack:neoray/tick"
+        "nauthack:neoray/tick",
+        "nauthack:neoclock/tick",
+        "nauthack:neotimer/tick",
+        "nauthack:neomouse/tick"
     ]
 }

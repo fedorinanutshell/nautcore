@@ -1,0 +1,1 @@
+execute if data storage nauthack:nauthack neomouse.id.neomouse_default run say "REXE!"

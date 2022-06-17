@@ -1,0 +1,18 @@
+{
+	"type": "nauthack:blackworld",
+	"generator": {
+		"type": "minecraft:flat",
+		"settings": {
+			"biome": "nauthack:blackworld",
+			"lakes": false,
+			"features": false,
+			"layers": [
+				{
+					"block": "minecraft:air",
+					"height": 1
+				}
+			],
+			"structure_overrides": []
+		}
+	}
+}

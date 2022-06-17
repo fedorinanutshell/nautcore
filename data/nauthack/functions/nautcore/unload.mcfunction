@@ -14,3 +14,8 @@ data remove storage nauthack:nauthack nautray
 data remove storage nauthack:nauthack nauttimer
 data remove storage nauthack:nauthack nauttrack
 data remove storage nauthack:nauthack rmbcheck
+data remove storage nauthack:nauthack freeray
+
+execute in nauthack:blackworld_neoid run forceload remove -1 -1 0 0
+
+team remove nautcore_nocoll

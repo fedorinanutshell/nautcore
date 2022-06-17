@@ -1,0 +1,1 @@
+execute if data entity @s data.neotimer.args.neotimer_end run kill @s

@@ -1,0 +1,1 @@
+execute if data entity @s data.neotimer.args.neotimer_default run tellraw @a {"text":"Default Timer triggered! ","color":"yellow","bold":true}

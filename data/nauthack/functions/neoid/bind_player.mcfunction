@@ -1,4 +1,4 @@
-execute in nauthack:blackworld_neoid run summon minecraft:marker 0 0 0 {Tags: ["neoid_bound", "neoid_init"]}
+execute in nauthack:blackworld_players run summon minecraft:marker 0 0 0 {Tags: ["neoid_bound", "neoid_init", "neoid_player"]}
 
 scoreboard players operation @e[tag = neoid_init] neoid_bind = @s neoid
 execute as @e[tag = neoid_init] store result entity @s data.id int 1 run scoreboard players get @s neoid
