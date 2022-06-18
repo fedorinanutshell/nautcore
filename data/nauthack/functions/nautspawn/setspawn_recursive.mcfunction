@@ -1,1 +1,0 @@
-execute if block ~ ~-1 ~ #nauthack:semi_transparent if entity @s[y=1, dy=255] run function nauthack:nautspawn/setspawn_recursive_move
