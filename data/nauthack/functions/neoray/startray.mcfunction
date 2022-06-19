@@ -1,6 +1,6 @@
 execute positioned ~ ~1.5 ~ run summon minecraft:marker ^ ^ ^1 {Tags: ["neoray", "neoray_init"]}
-execute store result entity @e[tag = neoray_init, limit = 1] Rotation[0] float 1.0 run data get entity @s Rotation[0] 1.0
-execute store result entity @e[tag = neoray_init, limit = 1] Rotation[1] float 1.0 run data get entity @s Rotation[1] 1.0
+execute store result entity @e[tag = neoray_init, limit = 1] Rotation[0] float 0.01 run data get entity @s Rotation[0] 100.0
+execute store result entity @e[tag = neoray_init, limit = 1] Rotation[1] float 0.01 run data get entity @s Rotation[1] 100.0
 data modify entity @e[tag = neoray_init, limit = 1] data.neoray.args set from storage nauthack:nauthack neoray.args
 execute store result entity @e[tag = neoray_init, limit = 1] data.neoray.ownerID int 1.0 run scoreboard players get @s neoid
 

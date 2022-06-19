@@ -1,0 +1,1 @@
+function #nauthack:neoclock/day
