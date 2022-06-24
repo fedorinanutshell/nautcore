@@ -1,0 +1,1 @@
+execute if entity @s[nbt = {SelectedItem: {id: "minecraft:filled_map"}}] run data modify storage nauthack:nauthack neomap.id set from entity @s SelectedItem.tag.map

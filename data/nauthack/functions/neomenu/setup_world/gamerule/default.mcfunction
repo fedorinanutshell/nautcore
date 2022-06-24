@@ -13,6 +13,7 @@ gamerule doMobSpawning true
 gamerule doPatrolSpawning true
 gamerule doTileDrops true
 gamerule doTraderSpawning true
+gamerule doWardenSpawning true
 gamerule doWeatherCycle true
 gamerule drowningDamage true
 gamerule fallDamage true
