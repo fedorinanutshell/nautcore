@@ -1,7 +1,0 @@
-scoreboard objectives remove rmbcheck_check
-scoreboard objectives remove rmbcheck_add
-scoreboard objectives remove rmbcheck_clicks
-scoreboard objectives remove rmbcheck_id
-scoreboard objectives remove rmbcheck_remove
-
-scoreboard players set rmbcheck_active nautmath_var 0

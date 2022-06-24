@@ -1,1 +1,0 @@
-execute if score rmbcheck_active nautmath_var matches 1 as @a at @s run function nauthack:rmbcheck/player/tick

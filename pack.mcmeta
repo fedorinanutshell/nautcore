@@ -2,7 +2,7 @@
 	"pack": {
 		"pack_format": 10,
 		"description": {
-			"text": "Basically a source of functions&other things\nData-Pack Library developed by naut_illus\nVersion: 1.19",
+			"text": "Basically a source of functions&other things\nData-Pack Library developed by naut_illus\nVersion: 1.19\nMore info on GitHub: github.com/fedorinanutshell/nautcore",
 			"color": "gold",
 			"bold": true
 		}

@@ -1,1 +1,0 @@
-scoreboard players operation @s rmbcheck_clicks -= 1 nautmath_var

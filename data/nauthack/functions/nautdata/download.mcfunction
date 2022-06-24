@@ -1,1 +1,0 @@
-execute if score nautdata_download nautmath_var matches 2.. run function nauthack:nautdata/download_recursive

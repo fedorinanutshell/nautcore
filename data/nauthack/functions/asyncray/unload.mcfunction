@@ -1,2 +1,0 @@
-scoreboard objectives remove asyncray_id
-scoreboard objectives remove asyncray_owner
