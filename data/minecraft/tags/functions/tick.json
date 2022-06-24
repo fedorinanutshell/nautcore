@@ -2,12 +2,8 @@
     "replace": false,
     "values": [
         "nauthack:nautcore/tick",
-        "nauthack:nautid/tick",
-        "nauthack:rmbcheck/tick",
         "nauthack:nautstats/tick",
         "nauthack:nautstats/speed/tick",
-        "nauthack:nauttime/tick",
-        "nauthack:nauttimer/tick",
         "nauthack:nautremote/tick",
         "nauthack:neoid/tick",
         "nauthack:neoray/tick",
