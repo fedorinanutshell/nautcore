@@ -9,6 +9,7 @@
         "nauthack:neoray/tick",
         "nauthack:neoclock/tick",
         "nauthack:neotimer/tick",
-        "nauthack:neomouse/tick"
+        "nauthack:neomouse/tick",
+        "nauthack:neomenu/tick"
     ]
 }

@@ -1,0 +1,2 @@
+scoreboard objectives remove neomenu
+scoreboard objectives remove neomenu_info

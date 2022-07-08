@@ -1,0 +1,2 @@
+scoreboard players set @s neomenu 0
+tellraw @s {"text": "\n   Displaying Data-Packs Menu:", "color": "aqua", "bold": true, "extra": [{"text": "\n-Info", "color": "white", "bold": false, "clickEvent": {"action": "run_command", "value": "/trigger neomenu_info"}}, {"text": "\n-Setup World [OP]", "color": "white", "bold": false, "clickEvent": {"action": "run_command", "value": "/function nauthack:neomenu/setup_world"}}]}

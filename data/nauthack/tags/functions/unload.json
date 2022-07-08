@@ -7,6 +7,7 @@
 		"nauthack:neoid/unload",
 		"nauthack:neotimer/unload",
 		"nauthack:neomouse/unload",
-		"nauthack:nautmath/unload"
+		"nauthack:nautmath/unload",
+		"nauthack:neomenu/unload"
 	]
 }

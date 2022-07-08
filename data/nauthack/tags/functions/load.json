@@ -9,6 +9,7 @@
         "nauthack:neoid/load",
         "nauthack:neoclock/load",
         "nauthack:neotimer/load",
-        "nauthack:neomouse/load"
+        "nauthack:neomouse/load",
+        "nauthack:neomenu/load"
     ]
 }

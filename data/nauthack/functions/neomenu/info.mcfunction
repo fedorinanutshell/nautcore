@@ -1,0 +1,2 @@
+scoreboard players set @s neomenu_info 0
+tellraw @s {"text": "\n   NautCore!\n", "bold": true, "color": "gold", "extra": [{"text": "NautCore - a Minecraft data-pack created to help you with another data-packs. For more info see project's ", "color": "aqua", "bold": false}, {"text": "GitHub", "color": "dark_blue", "bold": true, "underlined": true, "clickEvent": {"action": "open_url", "value": "https://github.com/fedorinanutshell/nautcore"}, "hoverEvent": {"action": "show_text", "value": {"text": "Click!", "color": "aqua", "bold": false, "underlined": false}}}]}
