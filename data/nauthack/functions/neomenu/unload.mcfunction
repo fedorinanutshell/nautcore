@@ -1,2 +1,3 @@
 scoreboard objectives remove neomenu
 scoreboard objectives remove neomenu_info
+scoreboard objectives remove neomenu_player
